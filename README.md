@@ -1,4 +1,4 @@
-# I is good
+# Arrays and Loops
 
 ```java
 package arraysandloops;
