@@ -1,5 +1,7 @@
 # I is good
-```package arraysandloops;
+
+```java
+package arraysandloops;
 import java.util.Random;
 
 public class ArraysAndLoops {
